@@ -64,34 +64,39 @@ div a:hover {
 
 .img2 {
     background-image: url('../git/s2.png');
+    padding: 100px 0px;
 /*     background-image: url(/s2.png); */
 }
 
 .img3 {
     background-image: url('../git/s3.jpg');
+    padding: 100px 0px;
 /*     background-image: url(/s3.jpg); */
 }
 .img4 {
     background-image: url('../git/s4.jpg');
+    padding: 100px 0px;
 /*     background-image: url(/s4.jpg); */
 }
 .img5 {
     background-image: url('../git/s5-1.gif');
+    padding: 100px 0px;
 /*     background-image: url(/s5-1.gif); */
 }
 .img6 {
     background-image: url('../git/s6.gif');
+    padding: 100px 0px;
 /*     background-image: url(/s6.gif); */
 }
 .img7 {
     background-image: url(../git/s7.gif);
+    padding: 100px 0px;
 /*     background-image: url(/s7.gif); */
-    height: 400px;
 }
 .img8 {
     background-image: url(../git/s8.jpg);
+    padding: 100px 0px;
 /*     background-image: url(/s8.jpg); */
-    padding: 50px;
 }
 .img9 {
     background-image: url(../git/s9.gif);
@@ -133,23 +138,40 @@ div a:hover {
 
 /* Mobile CSS */
 @media (max-width: 786px) {
-    div {
-        text-align: center;
-    }
-    .container {
-        width: 80%;
+    .img2 {
+        padding: 0;
+        background-position: top left;
+        background-size: cover;
     }
     .img3 {
-        background-size: cover;
-        background-position: top right;
+        padding: 0;
+    }
+    .img4 {
+        padding: 0;
+    }
+    .img5 {
+        padding: 0;
+        background-position: center;
+    }
+    .img6 {
+        padding: 0;
+    }
+    .img7 {
+        padding: 0;
+        background-position: center;
     }
     .img8 {
         background-size: cover;
         background-position: bottom right;
+        padding: 0;
+    }
+    .img9 {
+        padding: 0;
     }
     .height {
         padding: 0px 10px;
     }
+    
     
     
 }
