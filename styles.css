@@ -74,7 +74,7 @@ div a:hover {
     background-image: url('./git/s5-1.gif');
 }
 .img6 {
-    background-image: url('/git/s6.gif');
+    background-image: url('../git/s6.gif');
 }
 .img7 {
     background-image: url(/s7.gif);
