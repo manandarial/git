@@ -68,10 +68,10 @@ div a:hover {
     background-image: url('manandarial.github.io/git/styling/s3.jpg');
 }
 .img4 {
-    background-image: url('/s4.jpg');
+    background-image: url('git/s4.jpg');
 }
 .img5 {
-    background-image: url(/s5-1.gif);
+    background-image: url(./git/s5-1.gif);
 }
 .img6 {
     background-image: url(/s6.gif);
