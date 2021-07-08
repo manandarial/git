@@ -1,1 +1,1 @@
-(manandarial.github.io/git/)
+# https://manandarial.github.io/git/
