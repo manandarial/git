@@ -61,31 +61,31 @@ div a:hover {
 }
 
 .img2 {
-    background-image: url('manandarial.github.io/git/s2.png');
+    background-image: url('../git/s2.png');
 }
 
 .img3 {
-    background-image: url('manandarial.github.io/git/styling/s3.jpg');
+    background-image: url('../git/s3.jpg');
 }
 .img4 {
-    background-image: url('git/s4.jpg');
+    background-image: url('../git/s4.jpg');
 }
 .img5 {
-    background-image: url('./git/s5-1.gif');
+    background-image: url('../git/s5-1.gif');
 }
 .img6 {
     background-image: url('../git/s6.gif');
 }
 .img7 {
-    background-image: url(/s7.gif);
+    background-image: url(../git/s7.gif);
     height: 400px;
 }
 .img8 {
-    background-image: url(/s8.jpg);
+    background-image: url(../git/s8.jpg);
     padding: 50px;
 }
 .img9 {
-    background-image: url(/s9.gif);
+    background-image: url(../git/s9.gif);
     padding: 150px 50px;
 }
 
