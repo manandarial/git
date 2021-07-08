@@ -1,5 +1,6 @@
 body {
     margin: 0;
+<<<<<<< HEAD
     padding: 0;
     background-color: rgb(255, 255, 255);
     box-sizing: border-box;
@@ -120,3 +121,7 @@ div a:hover {
 .s10 {
     background-color: #e63946;
 }
+=======
+    background-color: blue;
+}
+>>>>>>> main
