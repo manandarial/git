@@ -65,13 +65,13 @@ div a:hover {
 }
 
 .img2 {
-    background-image: url('./git/s2.png');
+    background-image: url('../git/s2.png');
 /*     background-image: url(/s2.png); */
     padding: 100px 0px;
 }
 
 .img3 {
-    background-image: url('./git/s3.jpg');
+    background-image: url('../git/s3.jpg');
 /*     background-image: url(/s3.jpg); */
     padding: 100px 0px;
     background-position: top right;
